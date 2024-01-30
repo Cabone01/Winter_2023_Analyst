@@ -1,4 +1,4 @@
-# Scraping_Analyst
+# Christmas Decoration Dive
 ## Introduction    
 This project aimed to go through the ETL process steps and create visualizations based on the data extracted from each company on holiday decorations. This is done to compare companies' differences and see how the store fares.    
 **Tools**
